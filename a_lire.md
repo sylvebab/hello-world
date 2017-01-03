@@ -4,3 +4,4 @@
 - C'est du texte.
 - C'est en français.
 - Une ligne de plus.
+# Fin du fichier
